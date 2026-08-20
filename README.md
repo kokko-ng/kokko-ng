@@ -31,8 +31,3 @@ Engineer at [Insight Enterprises APAC](https://github.com/Insight-Services-APAC)
 ## GitHub Activity
 
 ![Metrics](./github-metrics.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kokko-ng/kokko-ng/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kokko-ng/kokko-ng/output/github-snake.svg">
-</picture>
