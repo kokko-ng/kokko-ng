@@ -28,7 +28,11 @@ Engineer at [Insight Enterprises APAC](https://github.com/Insight-Services-APAC)
 | [kokko-devcontainer](https://github.com/kokko-ng/kokko-devcontainer) | Devcontainer setup for macOS with Colima, Ghostty, and Claude Code |
 | [new-mac-setup](https://github.com/kokko-ng/new-mac-setup) | Claude Code runbook that provisions a new Mac dev environment from zero |
 
-## GitHub Stats
+## GitHub Activity
 
-![Kokko's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokko-ng&show_icons=true&theme=default&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokko-ng&layout=compact)
+![Metrics](./github-metrics.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kokko-ng/kokko-ng/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kokko-ng/kokko-ng/output/github-snake.svg">
+</picture>
