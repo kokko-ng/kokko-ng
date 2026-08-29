@@ -21,12 +21,10 @@ Engineer at [Insight Enterprises APAC](https://github.com/Insight-Services-APAC)
 
 | Project | Description |
 | --- | --- |
-| [pydsa](https://github.com/kokko-ng/pydsa) | Data structures and algorithms built from scratch in Python, from dynamic arrays to a graph route planner |
-| [py8bit](https://github.com/kokko-ng/py8bit) | A complete 8-bit computer built in Python to teach computer architecture |
-| [kokko-janitor](https://github.com/kokko-ng/kokko-janitor) | Worktree-based codebase clean-up for Claude Code: parallel lint fixes and agent-judged refactoring |
 | [remotion-tutorial](https://github.com/kokko-ng/remotion-tutorial) | Narrated technical tutorial videos with Remotion, Azure TTS voiceover, and word-synced subtitles |
 | [kokko-devcontainer](https://github.com/kokko-ng/kokko-devcontainer) | Devcontainer setup for macOS with Colima, Ghostty, and Claude Code |
-| [new-mac-setup](https://github.com/kokko-ng/new-mac-setup) | Claude Code runbook that provisions a new Mac dev environment from zero |
+| [the-runbook](https://github.com/kokko-ng/the-runbook) | An Azure career RPG covering every AZ-104 and AZ-305 objective, with no language model at runtime |
+| [py8bit](https://github.com/kokko-ng/py8bit) | A complete 8-bit computer built in Python to teach computer architecture |
 
 ## GitHub Activity
 

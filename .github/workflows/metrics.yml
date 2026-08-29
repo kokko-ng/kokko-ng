@@ -24,3 +24,14 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          # The isometric calendar is drawn after the commit-streak column and
+          # pulled back up with an inline "margin-top: -130px" so the two sit
+          # side by side. That -130px assumes a taller column than this
+          # template actually renders: measured, the column is 109px, so the
+          # calendar lands 12px inside the "Contributions calendar" heading and
+          # overlaps the words. -105px leaves its top edge 13px clear of the
+          # heading and still beside the stats. The inline style has to be beaten
+          # with !important. If the streak column ever gains or loses a line,
+          # keep this at or below (column height - 4px) to stay clear.
+          extras_css: |
+            svg[version="1.1"]{margin-top:-105px !important}
