@@ -5,7 +5,7 @@ Engineer at [Insight Enterprises APAC](https://github.com/Insight-Services-APAC)
 ## About
 
 - Currently working on cloud engineering and agentic developer workflows on Azure
-- Building a from-scratch series: data structures, an 8-bit computer, compilers, and database internals
+- Building things from scratch to see how they work, such as an 8-bit computer in Python
 - Interested in developer tooling, automation, and Claude Code customization
 
 ## Tech Stack
@@ -22,7 +22,7 @@ Engineer at [Insight Enterprises APAC](https://github.com/Insight-Services-APAC)
 | Project | Description |
 | --- | --- |
 | [remotion-tutorial](https://github.com/kokko-ng/remotion-tutorial) | Narrated technical tutorial videos with Remotion, Azure TTS voiceover, and word-synced subtitles |
-| [kokko-devcontainer](https://github.com/kokko-ng/kokko-devcontainer) | Devcontainer setup for macOS with Colima, Ghostty, and Claude Code |
+| [kokko-devcontainer](https://github.com/kokko-ng/kokko-devcontainer) | Cookiecutter FastAPI + Vue devcontainer for macOS and Colima, plus a `dev` CLI; Claude Code runs inside behind a firewall |
 | [the-runbook](https://github.com/kokko-ng/the-runbook) | An Azure career RPG covering every AZ-104 and AZ-305 objective, with no language model at runtime |
 | [py8bit](https://github.com/kokko-ng/py8bit) | A complete 8-bit computer built in Python to teach computer architecture |
 
